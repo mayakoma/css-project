@@ -1,2 +1,2 @@
-# my first website
-using CSS and HTML
+# css project
+using CSS, SASS and HTML
